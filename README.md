@@ -1,0 +1,2 @@
+# ZiniyaNidhiLimited
+Nidhi Static Website
